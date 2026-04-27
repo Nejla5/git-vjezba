@@ -1,1 +1,2 @@
 # git-vjezba
+# izmijenjen readme
